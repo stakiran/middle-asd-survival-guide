@@ -70,7 +70,9 @@ def main():
     official_prompt = prompt_template.replace('%body%', body)
 
     # OpenAI API で英訳を取得
-    translation = request_to_model('gpt-5.2', official_prompt)
+    # 2.2万文字を200秒でもタイムアウトする
+    #translation = request_to_model('gpt-5.2', official_prompt)
+    translation = request_to_model('gpt-4.1-mini', official_prompt)
 
     # 後処理
     translation = translation.replace("’", "'") # プロンプトでも直らんので荒療治

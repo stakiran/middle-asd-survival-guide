@@ -1,4 +1,5 @@
 # MASD(Middle ASD)向けサバイバルガイド
+Survival Guide for MASD (Middle ASD) .
 
 ## [Website](https://stakiran.github.io/middle-asd-survival-guide/)
 

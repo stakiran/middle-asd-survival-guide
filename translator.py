@@ -15,7 +15,7 @@ import openai
 openai.api_key = os.environ["OPENAI_API_KEY"]
 client = openai.OpenAI()
 
-def request_to_model(model_name, prompt, timeout=130):
+def request_to_model(model_name, prompt, timeout=200):
     try:
         response = client.chat.completions.create(
             model=model_name,

@@ -1,452 +1,715 @@
-# MASD (Middle ASD) Survival Guide
+# Survival Guide for MASD (Middle ASD)
 [Japanese](index.md) | [English](index_EN.md) | [GitHub](https://github.com/stakiran/middle-asd-survival-guide)
 
 # (Table of Contents)
 <!-- toc -->
-- [MASD (Middle ASD) Survival Guide](#masd-middle-asd-survival-guide)
+- [Survival Guide for MASD (Middle ASD)](#survival-guide-for-masd-middle-asd)
 - [(Table of Contents)](#table-of-contents)
 - [Introduction](#introduction)
     - [Background](#background)
     - [Terminology](#terminology)
-    - [Target Audience](#target-audience)
-    - [Notes](#notes)
+    - [Intended Audience](#intended-audience)
+    - [Disclaimer](#disclaimer)
 - [Definition of MASD](#definition-of-masd)
     - [MASD](#masd)
-    - [How to Determine if You are MASD](#how-to-determine-if-you-are-masd)
+    - [How to Determine if You Are MASD](#how-to-determine-if-you-are-masd)
 - [Understanding Traits and Strategies](#understanding-traits-and-strategies)
     - [Traits of ASD](#traits-of-asd)
-    - [Before Diving into MASD Traits](#before-diving-into-masd-traits)
+    - [Before Entering MASD Traits](#before-entering-masd-traits)
     - [Traits of MASD](#traits-of-masd)
-    - [MASD Strategy (Approach)](#masd-strategy-approach)
+    - [MASD Strategies](#masd-strategies)
 - [Knowing Laws and Systems](#knowing-laws-and-systems)
     - [Laws](#laws)
     - [Company Systems](#company-systems)
     - [External Systems](#external-systems)
     - [Strategy](#strategy)
     - [(Aside) Author's Personal Experience](#aside-authors-personal-experience)
-    - [(Aside) How Unreasonable is an Unreasonable Demand?](#aside-how-unreasonable-is-an-unreasonable-demand)
-- [Understanding Your Own Tendencies](#understanding-your-own-tendencies)
+    - [(Aside) How Much Is “Unreasonable Selfishness”?](#aside-how-much-is-unreasonable-selfishness)
+- [Knowing Your Own Tendencies](#knowing-your-own-tendencies)
     - [Read Detailed Books](#read-detailed-books)
     - [No Need to Read Academic Papers](#no-need-to-read-academic-papers)
     - [Gain Social Experience](#gain-social-experience)
-    - [Reflect](#reflect)
-    - [Constantly Secure Margin and Health](#constantly-secure-margin-and-health)
-- [Obtaining Individualized Accommodation](#obtaining-individualized-accommodation)
+    - [Reflect on Yourself](#reflect-on-yourself)
+    - [Maintain Constant Resilience and Health](#maintain-constant-resilience-and-health)
+- [Securing Individualized Accommodation](#securing-individualized-accommodation)
+    - [Controlling the Balance of Three Elements](#controlling-the-balance-of-three-elements)
+        - [Explanation of Each Element](#explanation-of-each-element)
+        - [Self-Evaluation Using LMH](#self-evaluation-using-lmh)
+        - [How to Improve Each Element > Devotion](#how-to-improve-each-element--devotion)
+        - [How to Improve Each Element > Skills](#how-to-improve-each-element--skills)
+        - [How to Improve Each Element > Communication Control](#how-to-improve-each-element--communication-control)
+    - [Avoid Being Managed](#avoid-being-managed)
+    - [Eliminate Irregularities](#eliminate-irregularities)
+- [Conclusion](#conclusion)
 
 # Introduction
 
 ## Background
-As of January 2026, awareness of neurodiversity is still insufficient. Especially challenging is the group within ASD whose abilities are neither high nor low. They can't compensate by having high performance, but their abilities aren't low enough to comfortably settle for support levels designed for people with disabilities. However, adapting to the norms of the majority—neurotypical people—is either impossible, extremely difficult, or profoundly draining, even if possible.
+As of January 2026, awareness of neurodiversity is still insufficient. Especially difficult is the group within ASD whose abilities are neither particularly high nor low. They can't compensate with exceptional ability, nor is their ability low enough to be comfortably accommodated within the standard disability frameworks. However, adapting to the norms and expectations of the neurotypical majority is either impossible, very difficult, or extremely draining even if possible.
 
-I believe all three of the following approaches are necessary in neurodiversity:
+I believe three approaches are all necessary for neurodiversity:
 
-- 1: The majority side—especially management and leadership—learns to **successfully utilize neurodivergent individuals**.
-- 2: The majority side demonstrates that neurodivergent individuals offer enough merit to justify this approach.
-- 3: Neurodivergent individuals understand their own traits and the current state of neurodiversity, proactively act in advance, and defend themselves.
+- 1: For the majority — especially those in management and leadership — to **effectively utilize neurodivergent individuals**
+- 2: To demonstrate that there are benefits in doing so for neurodivergent people themselves
+- 3: For neurodivergent individuals to understand their own traits and the current state of neurodiversity, and to proactively take control and defend themselves
 
-This guide focuses on 3. For approaches 1 and 2, please see my [other work](https://github.com/stakiran/asdm_public) (Japanese only).
+This book focuses on 3:. For 1: and 2:, please refer to my [other work](https://github.com/stakiran/asdm_public) (Japanese only).
 
 ## Terminology
 - **Neurotypical**
-    - Refers to individuals who are not neurodivergent.
-    - They are the overwhelming majority across all contexts.
+    - Refers to those who are not neurodivergent
+    - They overwhelmingly constitute the majority in virtually any context
 - **Neurodivergent**
-    - Refers to individuals with developmental disorders such as ASD, ADHD, LD.
-    - Rather than seeing this as a disability, it's reconsidered as a difference in brain traits—a form of diversity.
+    - Refers to people with developmental disabilities such as ASD, ADHD, LD, etc.
+    - This term reinterprets “disability” as a difference in traits (brain nature) and embraces it as diversity
 - **Neurodiversity**
-    - The concept of diversity applied to developmental disorders as well.
+    - Applies the concept of diversity to developmental disabilities as well
 - **Reasonable Accommodation**
-    - Definitions vary by country but generally refers to individual, special accommodations for people with disabilities.
-    - It does not mean simply yielding to the demands of disabled individuals, but rather mutual adjustments.
-    - **Though applicable to neurodivergent people, this term is somewhat outdated, so this guide does not use it.**
+    - The precise definition varies by country, but it refers to providing specific accommodations to individuals with disabilities
+    - It does not mean simply yielding to the disabled party, but rather entails mutual adjustments
+    - **While applicable to neurodivergent individuals, this term is outdated in concept and will not be used in this book**
 - **Individualized Accommodation**
-    - A concept proposed by the author to replace “reasonable accommodation.”
-    - Reasonable accommodation is **norm-driven**: it assumes compliance with the norm first, then reluctantly considers individual accommodations for the disabled.
-    - Individualized accommodation is **exception-driven**: it assumes initially treating the individual as special, and actively explores how to conform to norms or to what degree.
+    - A concept proposed by the author as a replacement for reasonable accommodation
+    - Reasonable accommodation is **norm-driven**, first assuming adherence to norms, then passively considering special accommodations for disabled individuals
+    - Individualized accommodation is **exception-driven**, first giving the subject special treatment, then actively considering how much and in what ways to align with norms
 
-## Target Audience
-**ASD individuals whose abilities are neither high nor low.**
+## Intended Audience
+**ASD individuals whose ability is neither particularly high nor low**.
 
-We will call such ASD “MASD (Middle ASD).” This guide is for MASD, by MASD, and about survival for MASD. It offers hints for MASD to live in this inadequate society.
+I will refer to this group as MASD (Middle ASD) throughout this book. This is a survival guide by MASD, for MASD, about MASD. It offers hints to MASD on how to live in this inadequate society—especially **as a company employee**.
 
-More specifically, this guide is most meaningful for people who fit the following criteria:
+Specifically, it is most meaningful for:
 
-- Are MASD
-- Work as white-collar or desk workers
-- Are company employees
-- Live in Japan and live their lives in Japanese
+- Those who are MASD
+- White-collar or desk workers
+- Company employees
+- Living in Japan and conducting daily life in Japanese
 
-However, readers who do not fit these may still find this guide useful. The guide avoids entering specific cultures, industries, or organizations, and is organized to be as general and concise as possible for universal reference.
+However, I believe it will also be useful to readers outside these categories. This guide avoids culture-, industry-, or organization-specific topics to make it broadly applicable and concise.
 
-## Notes
-- This guide represents the author's personal views, not those of any organization.
-- The author accepts no responsibility for any damage arising from the use of this guide.
+## Disclaimer
+- This book reflects the author's personal opinion, not that of any organization
+- The author assumes no responsibility for any damages arising from using this book
 
 # Definition of MASD
 
 ## MASD
 **MASD (Middle ASD)** refers to ASD individuals whose abilities are neither high nor low.
 
-## How to Determine if You are MASD
-First, you must meet the following criterion 1. If not, you are not MASD.
+## How to Determine if You Are MASD
+First, you must meet the following essential criterion to be considered MASD. If you do not meet it, you are not MASD:
 
-- 1: You have an official ASD diagnosis document.
+- 1: You have an ASD diagnosis certificate
 
-If you don't have a diagnosis document, please obtain one. Self-diagnosis may suffice for personal use, but this guide assumes ASD individuals who have a diagnosis and can disclose it for their interactions. Diagnosis methods are discussed in [Knowing the Diagnosis Process](#diagnosis-methods).
+If you don't have a diagnosis certificate, please obtain one first. Self-diagnosis is acceptable, but this guide assumes ASD individuals with official diagnosis certificates who disclose their condition and take action accordingly. Diagnosis methods are discussed in the [Diagnosis Methods](#diagnosis-methods) chapter.
 
-Next, the more you fit the following points, the more likely you are MASD. Ideally, all or at least a majority should apply. If not, you may not be MASD or you haven't had enough life experience to judge.
+Next, the more of the following criteria you meet, the more likely you are MASD. Ideally, “ability” should be strictly defined, but since it's difficult, these criteria serve as a practical approximation. If you are MASD, you should meet all or at least the majority. If not, you may not be MASD, or simply lack sufficient life experience to know.
 
-- 1: You are an adult.
-- 2: Your IQ is between 86 and 114 inclusive.
-- 3: You have been employed for more than 5 years but have never been promoted.
-- 4: You meet all of the following:
-    - You have had a period of 10 years or more without a partner, or it seems easily achievable.
-    - You have had no friends with whom you could spend two or more hours alone purposefully twice or more in over 10 years, or it seems easily achievable.
-- 5: In nationwide competitions or activities involving thousands of participants, such as entrance exams or online games, despite serious effort you cannot exceed a deviation score of 50; or can initially but after 3 years others improve and you fall below 50.
-    - *Serious effort means all three: spending at least 30 hours per month, studying, and consistently making lifestyle improvements. Some months may not meet this, but most should.*
+- 1: You are an adult
+- 2: Your IQ is between 86 and 114 (inclusive)
+- 3: You have worked at your company for over 5 years without a single promotion
+- 4: You meet all the following:
+    - Have had no partner for 10+ years or are likely to reach that point easily
+    - Have had no friend with whom you could spend several hours one-on-one purposelessly at least twice in 10+ years or are likely to reach that point easily
+- 5: In competitive environments open to thousands nationwide — like exams or online games — despite “serious effort,” you cannot surpass an average level (deviation value 50). Or you do surpass it initially but fall below it within 3 years as competitors improve
+    - *“Serious effort” means:* spending 30+ hours per month, studying, and continuously improving your lifestyle for these activities. Occasional lapses are allowed if most months meet criteria.
 
 # Understanding Traits and Strategies
-Understand your own traits. It makes it easier to handle them if you do.
+Understand your traits well. Understanding them makes coping easier.
 
 ## Traits of ASD
-Think of ASD as a **disorder of the cognitive “nerves,” not motor nerves**.
+Consider ASD as a **disorder of the "cognitive nerves" rather than the motor nerves**.
 
-Motor nerves govern motor skills. A disorder here makes it impossible to perform movements that neurotypicals can easily do—climbing many flights of stairs, walking continuously for 30 minutes, riding a bicycle, driving a car, playing ball games, and so forth—even with effort, or requires extraordinary effort.
+Motor nerves govern physical ability. If impaired, people cannot do basic physical activities ordinary people take for granted—e.g., climbing dozens of stairs, walking continuously for 30 minutes, cycling, driving, or playing ball games. Either attempts fail or require extraordinary effort.
 
-ASD is the cognitive version of this. We metaphorically call this the “cognitive nerves.” ASD means there is a disorder at the core that governs cognitive abilities. ASD individuals cannot perform cognitive tasks as naturally as neurotypicals, such as:
+ASD is essentially the cognitive equivalent. This book metaphorically calls it “cognitive nerves.” ASD affects the core of cognitive ability. People with ASD find it difficult to perform cognitive tasks that neurotypical people manage easily, such as:
 
-- Processing 30 minutes or more of nonverbal and verbal communication.
-- Filtering out all other noises and focusing only on the person speaking in front of them.
-- Adapting quickly to situations without forcibly relying on routines or personal rules.
-- Handling jobs, hobbies, and socializing without eating three meals a day or even reaching 2000 kcal.
-- Multitasking—simultaneously progressing on multiple jobs.
-- Achieving promotions at work, maintaining a family and social life concurrently.
+- Processing 30+ minutes of nonverbal, orally delivered communication
+- Filtering out all background noise to listen to the person in front of them
+- Quickly adapting to changing situations without enforcing strict routines or personal rules
+- Managing work, hobbies, and social life despite skipping three meals a day and not consuming 2000 kcal
+- Multitasking effectively
+- Advancing professionally, maintaining a household, and having friends to go out with
 
-These are deficiencies in **performance**, not just lack of effort, experience, or knowledge. This deficiency stems from the cognitive nerves, which cannot be trained. It's a hard fact. Society, however, assumes neurotypical cognitive nerve levels and expects ASD individuals to comply. Even though it's impossible.
+These are not matters of lack of effort, experience, or knowledge but rather **insufficient ability**. And that ability comes from cognitive nerves, which cannot be trained. There is nothing one can do about it. Meanwhile, society **assumes neurotypical cognitive nerve levels** and demands this from people with ASD unjustly.
 
-## Before Diving into MASD Traits
-Before discussing MASD traits, let's look at the higher and lower ends.
+## Before Entering MASD Traits
+Before diving into MASD traits, let's discuss those above and below this group.
 
-Within ASD, those with high abilities (HASD, High ASD) often don't struggle or solve problems easily. For example, ASD individuals with high IQ can imitate neurotypical behaviors beyond neurotypicals'. They can brute force through with cognitive capacity. HASDs typically don't fit MASD definitions—they get promoted, have partners, have low energy consumption and can immerse fully in reading and hobbies.
+Among ASD, those with high ability (HASD, High ASD) have fewer difficulties or can overcome them easily. For example, high-IQ ASD individuals can mimic neurotypical behaviors better than neurotypicals themselves. Their processing power lets them brute-force their way. HASD individuals don't meet MASD criteria—they tend to have promotions, partners, and the energy to immerse themselves in reading or hobbies.
 
-Put in motor terms: if someone had only one leg but enough stamina to jump 10 meters 100 times, jump 2 meters 1000 times, or jump 50 cm 10000 times with the remaining leg, their life would be manageable. Or money-wise: it's like having a disability but possessing 1 billion yen. **If you have high ability, honestly, you can manage just about anything.**
+Analogously to motor ability: even if one leg is missing, having the stamina to jump 10 meters 100 times, 2 meters 1000 times, and 50 cm 10,000 times can cover all daily needs. Or monetarily, having a disability but owning a billion yen. **With ability, honestly, you can handle anything.**
 
-On the other hand, low-ability ASD individuals (LASD, Low ASD) find independent living difficult. An ASD person with IQ below 80 probably can't live alone while holding a full-time job. Typically, they live under parental care and hold disability certificates in addition to diagnosis documents.
+Conversely, people with low ability (LASD, Low ASD) find autonomous living difficult. For example, ASD individuals with IQ below 80 rarely manage living alone and working as regular employees. Usually, they live under parental care with diagnosis certificates and disability ID cards.
 
-Japan has relatively well-developed support systems, allowing such living to be possible. **But that doesn't mean MASD can live like LASD. No.** MASD have higher abilities than LASD, meaning they are at a higher level.
+While economic and emotional support from parents varies, Japan's systems sufficiently support this lifestyle. **But MASD cannot live like LASD. No.** MASD has higher ability than LASD, thus occupies a higher level.
 
-Forcing a higher-ability individual to live at a lower level, especially at work, is a form of harassment—or even violent behavior. We wouldn't tell modern people not to use smartphones or transport just because it's “forbidden.” That would be violent. Similarly, recommending LASD lifestyles to MASD is itself abusive.
+Imposing a lower level than one's ability (especially at work) is so extreme it can be called harassment. It must never be tolerated. Would you forbid modern humans from using smartphones or transport? Such demands are violent. Therefore, consulting MASD to live like LASD is itself abusive.
 
 ## Traits of MASD
-With the above in mind, here are the MASD traits:
+Based on the above, let's explore MASD traits:
 
-- MASD cannot cover deficiencies by sheer ability like HASD.
-- MASD cannot live at LASD's low levels (which should never be accepted anyway).
+Two key points:
 
-Understand these as traits, not beliefs or strategies. You cannot become HASD; nor is it right to drop down to LASD levels. The surrounding neurotypicals will probably suggest the LASD approach, but never listen to them.
+- Cannot compensate by ability, unlike HASD
+- Cannot live at low levels like LASD (and must not be expected to)
 
-MASD is neither HASD nor LASD. Therefore, neither lifestyle applies.
+Understand these as traits, not beliefs or strategies. MASD can't become HASD nor lower themselves to LASD levels. Your neurotypical surroundings will likely advise LASD-like approaches, but do not heed them.
 
-This understanding should be firm. The reality is that neurodiversity is still insufficiently recognized. Even large Japanese companies praised for diversity efforts don't understand this. It's a harsh truth.
+MASD is neither HASD nor LASD; therefore, cannot live as either.
 
-Therefore, you yourself must assertively handle your situation. The foundation is accepting that **MASD is a trait and cannot be changed**.
+This should be your frame of mind because it's reality. Neurodiversity efforts remain insufficient. Even major Japanese companies praised for diversity barely understand this. It's a harsh truth.
 
-## MASD Strategy (Approach)
-ASD is a disorder of the cognitive nerves; MASD means “neither HASD nor LASD.” Given this, how should MASD act?
+Therefore, only you can assertively manage yourself. The basis is to **accept MASD as a trait beyond change**.
 
-The strategy is clear: **avoid adapting to neurotypical levels as much as possible**.
+## MASD Strategies
+ASD is a cognitive nerve disorder, and MASD is “neither HASD nor LASD.” Considering this, how should MASD behave?
 
-Let's introduce a term: neurotypical standards will be called **Typical Level**. No strict definition—perceive subjectively.
+The strategy is clear: **avoid adapting to neurotypical standards as much as possible**.
 
-Examples: Eating together with coworkers daily, joining after-hours drinking parties or events 2-3 times a month, attending meetings or casual chats for over 3 hours daily—all these are typical level activities. They are only possible because neurotypicals have the cognitive nerve level to manage them. ASDs cannot do them, or it's extremely high load.
+We will introduce a term for these neurotypical standards: **Typical Level**. There's no strict definition—you may interpret it subjectively.
 
-For neurotypicals, typical level is “normal.” It is also necessary for smooth organizational operation, so it's usually regarded as “something to comply with.” Thus, it's assumed everyone can handle it. Therefore, MASD themselves must avoid it.
+Examples include: eating with colleagues daily, attending after-work parties or events 2-3 times per month, spending over 3 hours daily in meetings or casual chats. These all represent typical level activities. Neurotypical cognitive ability enables these effortlessly; ASD individuals cannot do these easily or only with high strain.
 
-Avoidance takes many forms—preparing ahead, avoiding proximity, distancing quickly, asserting, or even clashing. Unfortunately, these occur **often**. Frequently.
+However, typical level is **“normal” and “expected”** for neurotypicals and deemed necessary for smooth organizational operation. Therefore, failing to meet these is considered impossible. **Thus, MASD must avoid these.**
 
-Put another way: **MASD must fight**.
+Avoidance is broad—it includes preparation, keeping distance, quick withdrawal, asserting oneself, or even confrontation. Unfortunately, these responses are **common**, happening frequently.
 
-Language the typical level, explain why you cannot meet it, disclose your ASD diagnosis if necessary, and persistently assert your needs to fight. If you can avoid fighting, great; in work settings, it will probably be difficult. **Work is inherently communication-intensive, so MASD traits become exposed**.
+Restated: **MASD must fight.**
 
-You can possibly gain individualized accommodation by fighting, but **without fighting, you will perish**. The structure imposes impossible typical levels: no chance of winning. You will lose either short term or at least mid-to-long term. You might be dismissed; before that, mentally drained. Secondary conditions like depression may develop. In severe cases, bullying or violence may occur.
+They must verbalize typical levels, explain why they can't meet them, and possibly disclose their ASD status. They must persistently advocate for themselves. Avoiding conflict is preferable, but at work, it's likely difficult to do so. **Work inherently involves frequent communication, exposing MASD limitations.**
 
-Does this sound exaggerated? It is not. MASD already understand the harsh reality. Historically, minority races or genders fought against similar oppressive structures and still do. MASD is a severely disadvantaged minority facing discrimination. That's why fighting is necessary.
+Fighting may help secure individualized accommodations, but **not fighting leads to death**. Being saddled with impossible typical levels means losing in the long or medium term. You'll be fired, emotionally drained, and may suffer secondary illnesses like depression or even bullying and violence in severe cases.
 
-Of course, fighting does not guarantee victory. It's inherently difficult, so you must carefully consider strategy. Usually, running away causes less harm than direct fight. Direct fight is appropriate in critical situations, for example: facing dismissal despite underperformance solely due to lack of individualized accommodation; unfair evaluations affecting salary and life; being forced unbearable workload; harassment or bullying.
+Does this sound exaggerated? Not at all. MASD likely already understand how unforgiving reality is. Historically, minorities of races or genders have fought similar battles and continue doing so. MASD are similarly heavily disadvantaged and discriminated minorities. Therefore, they must fight.
 
-Let's survive this harsh, unfair society. This guide will arm you with knowledge and courage.
+Of course, winning isn't guaranteed, and these battles are hard. Strategize well. Usually, fleeing causes less harm than head-on fighting. Crisis situations for confronting head-on include: being fired unfairly despite performance issues caused by lack of accommodation; unjust evaluations impacting salary and livelihood; extreme excessive workloads; or ongoing harassment and bullying.
+
+Let's survive this unreasonable society together. This guide equips you with the weapons you need—knowledge and courage.
 
 # Knowing Laws and Systems
-Knowing laws and systems helps you gain advantages in your fight.
+Knowledge of laws and systems gives advantages when fighting.
 
 ## Laws
-This section pertains to Japan. Others should research their own countries.
+This section discusses Japanese law. Others must research their own countries.
 
-There are two keywords.
+Two key concepts:
 
-First is reasonable accommodation: companies have an obligation to provide it, including for developmental disabilities.
+First, “reasonable accommodation,” denoting companies' legal obligation to provide accommodations—including for developmental disabilities.
 
-Second is open employment versus closed employment. Open employment means officially disclosing your disability to the company and working under the disabled employee quota, not general quota. Although it offers substantial accommodations, the work tends to be monotonous and pays less.
+Second, “open employment” and “closed employment” (open vs. hidden disability employment). Open employment means officially disclosing your disability and working under a special employment quota for disabled people. Though accommodations are generous, the work tends to be repetitive and pay is lower.
 
 References:
 
-- About Reasonable Accommodation
-    - [Guidelines for Reasonable Accommodation.pdf](https://www.mhlw.go.jp/file/06-Seisakujouhou-11600000-Shokugyouanteikyoku/0000082153.pdf)
-    - [Prohibition of Discrimination and Reasonable Accommodation for Disabled Persons in Employment | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/shougaishakoyou/shougaisha_h25/index.html)
-- Obligation to Provide Reasonable Accommodation from 2024
-    - [Leaflet: Reasonable Accommodation Obligation from April 1, 2024 - Cabinet Office](https://www8.cao.go.jp/shougai/suishin/sabekai_leaflet-r05.html)
-    - [Employer obligations to provide reasonable accommodation for disabled persons - Government Online](https://www.gov-online.go.jp/article/202402/entry-5611.html)
+- About reasonable accommodation
+    - [Reasonable Accommodation Guidelines.pdf](https://www.mhlw.go.jp/file/06-Seisakujouhou-11600000-Shokugyouanteikyoku/0000082153.pdf)
+    - [Prohibition of Discrimination and Reasonable Accommodation for Disabled Persons in Employment | Ministry of Health, Labor and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/shougaishakoyou/shougaisha_h25/index.html)
+- Obligation to provide reasonable accommodation starts in 2024
+    - [Leaflet: “From April 1, 2024, provision of reasonable accommodation is mandatory” - Cabinet Office](https://www8.cao.go.jp/shougai/suishin/sabekai_leaflet-r05.html)
+    - [Mandated “Provision of Reasonable Accommodation” for Employers - Government PR Online](https://www.gov-online.go.jp/article/202402/entry-5611.html)
 
-Unfortunately, reasonable accommodation today often comes bundled with open employment. As mentioned earlier, MASD is not LASD, so **you should not use open employment.** Work under the general quota (closed employment) like neurotypicals, and on top of that, demand reasonable accommodation.
+Unfortunately, modern reasonable accommodation is often linked to open employment. As stated, MASD **should not** enter open employment because they are not LASD. Like neurotypicals, work should be done in the standard employment framework (closed employment), requesting reasonable accommodation accordingly.
 
-Note: This guide uses “individualized accommodation” but this neologism is not widely understood. Use “reasonable accommodation” when making claims.
+Though this book uses “individualized accommodation,” this neologism is generally unknown. When advocating, it's better to use “reasonable accommodation.”
 
 ## Company Systems
-Check your company's **reporting window and methods**.
+It's important to know your company's **reporting windows and methods**.
 
-Key points:
+Two points:
 
-- 1: Know contact points outside your immediate supervisor or work unit.
-- 2: Know internal whistleblowing contacts and reporting methods.
+- 1: Know consultation windows outside your supervisor or department
+- 2: Know internal whistleblowing channels and methods
 
-To secure individualized accommodation, stronger pressure is needed. Start with 1: check windows outside your department, for example HR, labor union, I&D departments. Small companies may not have them, but large companies (1000+ employees) likely do. Search thoroughly in all departments and for all employees.
+Stronger pressure is needed to win individualized accommodation. First, find and note windows outside your department—e.g., HR, labor unions, I&D departments. Smaller companies might lack these, but large companies (1000+ employees) almost certainly have them. Check all departments and info systems thoroughly.
 
-However, 1: are often company insiders and may not be reliable. Therefore, use **internal whistleblowing**. This is reporting to company-setup hotlines, mainly for harassment or accounting fraud, but human rights violations are also possible. “Lack of reasonable accommodation” can be reported as a form of human rights violation. Though internal whistleblowing is company-provided and thus not 100% trustworthy, increasingly companies outsource this to external agencies, so it might function.
+Yet, like point 1, company staff might be unreliable. That's where **internal whistleblowing** helps. It's reporting to company-established channels, mainly intended for harassment or fraud but can cover human rights—thus, you can report “lack of reasonable accommodation.” Internal whistleblowing is also company-run and sometimes unreliable, but recently some have been outsourced externally and remain effective.
 
-When reporting, detailed textual descriptions of the situation are required, so keep records regularly. You can ask ChatGPT to help draft logs. Record chronologically who did what and the results. Omit emotions or diaries—stick to facts. Particularly record “accommodation insufficiency events” like: I proposed X accommodation to Y, but Y didn't respond.
+When reporting, detailed textual accounts are required. Keep logs regularly. You can ask ChatGPT for help writing these. Record facts in chronological order—who did what, what happened. Exclude emotions and diary-like content. Especially collect “accommodation lack events,” e.g., “I proposed X as accommodation to Y, but Y didn't respond.”
 
 ## External Systems
-I have never used them but the following exist:
+Though I haven't used them, these services exist:
 
 - [Guide to Dispute Resolution Assistance System.pdf](https://jsite.mhlw.go.jp/kumamoto-roudoukyoku/content/contents/000976326.pdf)
-- [Individual Labor Dispute Resolution System (Labor Consultation, Advice, Mediation) | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/general/seido/chihou/kaiketu/index.html?utm_source=chatgpt.com)
+- [Individual Labor Dispute Resolution System (Labor Consultation, Advice & Guidance, Mediation) | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/general/seido/chihou/kaiketu/index.html?utm_source=chatgpt.com)
 
-This relies on advice and guidance from prefectural labor bureaus. Target areas are narrow:
+This relies on advice and guidance by prefectural labor bureaus. However, scope is narrow:
 
-> Labor disputes such as dismissal, termination of contract, disadvantageous changes in labor conditions  
+> Disputes concerning dismissal, contract non-renewal, unfavorable changes to working conditions  
 > Workplace environment disputes such as bullying and harassment  
-> Recruitment and hiring disputes (only advice and guidance, not mediation)
+> Recruitment and hiring disputes (only eligible for advice and guidance, not mediation)
 
-These might be usable in critical cases like dismissal or harassment.
+Critical cases like dismissal or harassment may be covered.
 
-As a last resort, there is litigation; I don't cover it as I have no personal experience.
+The last resort is litigation. I have no personal experience and will not elaborate further.
 
 ## Strategy
-The battle strategy informed by laws and systems is three steps:
+Thus, your strategy knowing laws and systems is three steps:
 
-- 1: Assert reasonable accommodation and try to secure individualized accommodation.
-- 2: If that fails, use internal company contacts, especially whistleblowing.
-- (2.5: Personally, I recommend seriously considering changing jobs inside or outside the company.)
-- 3: If still no success, rely on external, more aggressive systems like mediation or court.
+- 1: Claim reasonable accommodation and secure individualized accommodation
+- 2: If unsuccessful, use internal company channels, especially whistleblowing
+- (2.5: Personally, try changing jobs inside or outside the company once)
+- 3: If still unresolved, escalate externally to mediation or court
 
-The higher the step, the bigger the fuss. Using step 2 attracts company scrutiny. Especially in closed employment, you look like a problematic low performer and become dismissal candidate.
+The bigger the steps, the greater the commotion. Using 2: will put you officially on the company's radar. Especially in closed employment, you may be seen as merely “problematic low performer,” making you a firing candidate.
 
-To prevent that, you need a story: **“I am neurodivergent and must receive reasonable accommodation, but am not currently receiving it.”** Since legally mandated, unless you make overly unreasonable demands, you have the advantage.
+To counter this, **you need a clear narrative: “I am neurodivergent and require reasonable accommodation but am currently underserved.”** Since it's legally mandated, unless you make extremely unreasonable demands, you have an advantage.
 
 ## (Aside) Author's Personal Experience
-Japan has strict dismissal regulations, but it's not impossible. I personally experienced a PIP (Performance Improvement Plan).
+Japan has strict regulations on dismissal, but it's not impossible. I personally faced a PIP (Performance Improvement Plan).
 
-Despite MASD communication and working style handicaps, I was technically more skilled than average. Among同期 (same-year colleagues), I stood out technically and have never shirked responsibilities. Still today, I outperform my surroundings clearly. Experience differs, but in basic aptitude and potential, I'm in another league compared to average employees. You can glimpse this through my GitHub account. My low performance designation stems from lack of reasonable accommodation leading to no actual work—thus no performance. Yet I was chosen for PIP.
+Even though I have communication and work style handicaps as MASD, I am technically more skilled than most peers. I have consistently excelled technically since joining the company, with demonstrated aptitude and no neglect of responsibilities. My GitHub reflects this. I was labeled a low performer simply because I lacked accommodations and thus work. Yet, I was placed on PIP.
 
-The company and supervisor explained “others are in this too,” “it's a natural transition to meritocracy,” and “no intention to dismiss, a fair system.” But after asking those deemed low performers around me, only I had been put on PIP. Also, the decision to apply the system was up to supervisors or higher-ups. Put cynically, maybe I was selected as bullying or as a scapegoat. Despite being a formal company system, a gag order was imposed, which increased my suspicion.
+The company claimed others were similarly affected, this was a natural outcome of moving to performance-based evaluations, and there was no intent to dismiss. However, I interviewed others labeled low performers and found I was the only one on PIP. Application appeared at managers' discretion—likely I was chosen as a scapegoat or bully target. Despite being a formal company system, I was also ordered to keep quiet, increasing my suspicion.
 
-I viewed this as human rights violation and lack of reasonable accommodation, so I filed an internal whistleblowing report. Thanks to that, my PIP was retracted.
+Considering this a human rights violation and lack of accommodation, I made an internal report. The PIP was eventually withdrawn.
 
-Also, response to reports can be slow; if no reaction for 1-2 weeks, follow up. Same applies for internal contacts. Basically, slow or ignored, so **follow-ups are frequently needed**.
+Be aware that responses to reports are slow—if no response after 1-2 weeks, escalate. This applies to all company inquiries. Generally, slow or ignored, so **persistence is essential**.
 
-## (Aside) How Unreasonable is an Unreasonable Demand?
-In the strategy section, I wrote:
+## (Aside) How Much Is “Unreasonable Selfishness”?
+In the strategy chapter, I wrote:
 
-> Unless you make extremely unreasonable demands, you have the advantage.
+> Unless we make extremely unreasonable demands, we have the advantage.
 
-What counts as unreasonable?
+What counts as “unreasonable” depends on company and context, but my personal observations include:
 
-It cannot be fully defined here—influenced by company and situation—but some personal perspectives:
+- 1: Refusing to engage in dialogue  
+- 2: Inability to make specific proposals
 
-- 1: Refusing to engage in dialogue.
-- 2: Being unable to make concrete proposals.
+First, refusing dialogue is typical in cases where courts have ruled against disabled workers. This includes missing meetings or ignoring messages.
 
-First, dialogue is essential. Some lost lawsuits filed by developmental disabled employees share the trait of “not engaging in dialogue”—not attending meetings, ignoring or refusing message exchanges, etc.
+In Japan, reasonable accommodation is often explained as “ongoing dialogue-based adjustment” and is a key focus in legal proceedings. Thus, rejecting dialogue is unacceptable.
 
-Reasonable accommodation is often explained in Japan as “continuous, collaborative dialogue” and is a key legal focus. So refusal to dialogue is never acceptable.
+Second, not being able to propose specific ideas is problematic. For instance, if MASD finds attending office daily hard and requests remote work, they must concretely propose how to work remotely: using Teams or Slack, holding regular remote meetings, using collaborative documents like Notion, Google Docs or Microsoft Loop. Without proposals, your requests look theoretical and unconvincing.
 
-Second, inability to make concrete proposals. For example, MASD may find daily commuting or office work unbearable and request remote work. You must present specific measures: communicate via Teams or Slack, regularly hold remote meetings, use collaboration tools like Notion, Google Docs, Microsoft Loop, etc. Without concrete proposals, your demands will be dismissed as “unrealistic.” Whether the other side understands or is motivated to implement them is another matter, but you should at least provide detailed suggestions.
+This is regardless of whether the company can understand or is motivated to implement your ideas. At least from your stance, making concrete proposals is better.
 
-If you address these two with recorded communication, you likely won't lose the battle.
+If you keep dialogue and proposals documented, you are unlikely to lose battles.
 
-“Having no tasks,” or “poor fit with assignments or teams” is common but is a managerial or administrative problem, not yours—so don't take it personally. However, to facilitate dialogue, propose what you can or can't do, and proactively seek work opportunities internally (probably you have available time). **Showing willingness** also keeps you from being perceived as making unreasonable demands.
+Common complaints like “no work” or “poor team/project fit” are typical but are largely management issues and not your fault. Still, to encourage dialogue, propose what you can and cannot do, and explore internal opportunities for work to suggest to your boss. Showing **willingness** helps avoid accusations of unreasonable demands.
 
-# Understanding Your Own Tendencies
-ASD is a spectrum; no two individuals are the same. If there were 1000 ASD individuals, there would be 1000 patterns.
+# Knowing Your Own Tendencies
+As the name suggests, ASD forms a spectrum with no two people identical. If there are 1000 ASD individuals, there are 1000 patterns.
 
-No one will teach you your own pattern or how best to accommodate it. Doctors, counselors, or friends cannot reliably do that, and if you are MASD, you probably cannot make such friends. Ultimately, you must learn yourself and then ask others: “I have these characteristics. Please accommodate accordingly.”
+Yet **no one will teach you your particular pattern or how you need accommodation**. Doctors, counselors, or friends will rarely help, especially since MASD likely have few such friends. You must discover it yourself. Then request, “I have this trait; please accommodate me like this.”
 
-Know yourself. What traits do you have as an ASD? What adjustments and accommodations work? Ideally, know your strengths above average. This chapter offers hints.
+Know yourself—what traits this ASD self holds, how to adjust, and ideally your strengths. This chapter offers hints.
 
 ## Read Detailed Books
-There are many books covering ASD; some focus on mechanisms and common patterns.
+Many books exist on ASD, some focused on mechanisms and common patterns.
 
-For example, a thick (300+ pages) book I recently read, *“Managing Employees with ASD – Leveraging Talent,”* was excellent. I strongly recommend starting with this.
+For example, I recently read *“Autistic Spectrum Disorder (ASD) Employees Succeeding—Management Guide to Harnessing Talent”*, a 300+ page solid book that I highly recommend.
 
 ![](images/260114_050311.png)
 
-Another book I started reading, *“Unmasking Autism: The New World for People with ASD,”* seems promising too.
+Another good book is *“Unmasking Autism: A New World for People with Autism Spectrum Disorder”*, which I have started. It explains the masks ASD people wear and covers ASD nature thoroughly in early chapters.
 
-![](images/260115_053413.png)
+When choosing books, check if they delve deeply into ASD itself. Essays or opinion pieces may be interesting but not helpful. A simple guide: prefer titles that include “ASD” or “Autism Spectrum Disorder”—this implies specialist focus.
 
-This book encourages removing the usual “mask” worn by ASD people and explains ASD traits in detail up to the first chapter.
+Books labeled just “developmental disorder” tend to be shallow and less useful. Also, books titled “Autism” or “Asperger's” may not help much, often targeting HASD or LASD.
 
-When choosing books, look for those that deeply explain ASD itself. Essays or opinion pieces—even if interesting—are less helpful. A quick heuristic: check if the title contains “ASD” or "Autism Spectrum Disorder." The use of these technical keywords suggests a focus on expert content.
-
-Conversely, books labeled just “developmental disabilities” or “autism” or “Asperger's” alone may be shallower or oriented towards HASD or LASD.
-
-You can ignore the authors' intended audience. For example, the “management guide” is aimed at managers but can be read by anyone. Nor must you be interested in “the world seen by ASD” or respect ASD success stories.
+Feel free to ignore the book's intended audience. For example, management guides for managers with ASD subordinates can be read by non-managers. Likewise, no need to feel interest in “the ASD perspective on the world” or reverence for “successful ASD people.”
 
 ## No Need to Read Academic Papers
-Some may think reading academic papers is best to understand ASD. If you can read them, great—they contain broader and deeper info than books—but MASD often finds it difficult.
+Some might think reading academic papers is best to understand ASD. Reading them is fine but likely too hard for MASD.
 
-People who read many papers are likely HASD: possess curiosity, stamina, intelligence to do so—and they generally don't struggle as much.
+Those who read papers extensively are probably HASD—they have the curiosity, stamina, and intelligence to do so, and thus less struggle.
 
-Another reason I say “no need” is that papers are hard to get others to understand. Books can be recommended for others to read; if a manager refuses, they probably lack accommodation abilities. Expecting someone to read papers is harsh. However, if you work in academia, papers might be better understood. Personally, I think MASD rarely work in academic fields, since that requires higher cognition, likely HASD.
+Another reason not to require reading papers: academic papers aren't comprehensible to most people. Books can be recommended to managers, who then either read or are judged unable to accommodate if refusing. Recommending papers to such people is unrealistic.
+
+If you work in academia, papers might be more effective. However, I doubt many MASD are in academia since that usually requires HASD-level intelligence.
 
 ## Gain Social Experience
-Knowledge from input is just knowledge. You must experience to know if something really fits you. Neurotypicals or HASD may cover this with imagination, but MASD cannot. You must try.
+Information intake is only “knowledge.” To truly understand if a trait applies to yourself, you need to experience it.
 
-For example, if you want to assess if you like or suit activities involving CPPF (Child, Partner, Pet, Friends), go try them:
+Neurotypicals and HASD can imagine from knowledge alone, but MASD can't. You must physically try.
 
-- Volunteer to interact with children.
-- Try dating or use matching apps, or approach someone you know.
-- Watch pet owners' videos, visit pet shops, zoos, cat cafes.
-- Join social events like lunches, gatherings, hobby groups.
+For example, to know if you like or are suited for CPPF (Children, Partner, Pet, Friends), try gaining experience:
 
-Look at these aspects:
+- Child interaction: volunteer opportunities
+- Partner: try dating apps, matchmaking, or approaching acquaintances
+- Pets: watch YouTube videos, visit pet shops, zoos, cat cafes
+- Friends: attend lunches, drinking parties, or hobby groups
 
-- Interest
-    - Do you like it?
-    - More: Would you continue without anyone's influence?
-- Growth Potential
-    - Can you grow continuously?
-    - If you have aptitude and good environment, you won't be blocked or excluded; outings with friends or romantic relationships may develop.
-    - Conversely, without aptitude or in harsh environments, you'll be blocked or excluded.
-- Dedication
-    - Can you invest consistently?
-    - Will you continue because it's important regardless of interest or aptitude? Are you persistently taking actions to maintain it?
-    - Conversely, if not, you may quit.
+Evaluate these aspects:
 
-Social experience varies widely, including:
+- Interest  
+    - Do you like it?  
+    - More specifically, would you continue regardless of others' opinions?
 
-- Acquiring CPPF
-- Maintaining CPPF
-    - Distinguish between acquiring and maintaining; they are separate aspects.
-- Working full-time with colleagues
-- Dealing with customers professionally—even desk workers may need to deal with “customer-like” individuals.
-- Interact with highly systematized staff like fast-food workers
-- Interact with human, local shop staff
-- Ask strangers for directions
-- Approach strangers socially
-- Participate in scheduled talk or interactive events
-- Participate in scheduled experiential events
+- Growth Potential  
+    - Can you keep improving?  
+    - If you're savvy and in a good environment, you may continue without hindrance and build friendships or partnerships.  
+    - Otherwise, you might get blocked or excluded before growth.
 
-In short, **you want to assess interest, growth potential, and dedication for diverse “social experiences.”**
+- Devotion  
+    - Can you continually invest time and effort?  
+    - Do you resolve to continue due to importance, despite likes/dislikes or aptitude, and persistently seek ways to do so?  
+    - Or do you give up?
 
-Neurotypicals and HASD manage all or mostly all these easily. MASD do not. They clearly split into what they can or want to do and what they cannot or do not want to do. As mentioned, ASD involves cognitive handicaps, and MASD cannot compensate with high ability. Handling various social experiences simultaneously causes overwhelm.
+Social experiences vary, e.g.:
 
-Therefore, you must know in detail what suits you, what doesn't, what you could manage with effort, or what you absolutely cannot. With knowledge, you can take countermeasures. Without it, you gamble blindly.
+- Getting CPPF  
+- Maintaining CPPF (distinct from getting it)  
+- Working full-time with colleagues  
+- Interacting with customers in work—though desk workers also often have “people to treat like customers”  
+- Interactions at systematized places like fast food or at localized, personable stores  
+- Asking strangers directions  
+- Approaching strangers socially  
+- Attending scheduled interactive or experiential events
 
-## Reflect
-Neurotypicals naturally grow just by leading busy lives. They learn to avoid repeating mistakes once warned. Work expects growth over time, with standards like “professional behavior,” “level of a 3rd-year employee,” or “skills expected in 30s.”
+In short, **investigate your degree of interest, growth potential, and devotion in many social experiences.**
 
-This complex activity breaks down as:
+While neurotypical and HASD can generally achieve any of these or can train up to them, MASD cannot. There is clear division: can/cannot, want/don't want. ASD affects cognitive ability, and MASD can't compensate by ability like HASD.
 
-- 1: Acquire all essential abilities and behaviors everyone should have.
-- 2: For things with strengths and weaknesses, increase use of strengths and reduce use of weaknesses.
+Facing all social experiences simultaneously risks overload.
 
-We skip 1. The 2nd part is possible only when you know your own tendencies.
+Therefore, it's crucial to know in detail where you fit and don't, where you might manage with effort, or where you simply can't. Such knowledge enables coping and strategy. Without it, life becomes pure gambling.
 
-Can MASD do this? No. They lack the ability to do 2 mentally alone, so time and growth don't correlate. For example, when I worked customer service part-time, after 3 years I was being guided by 3-month newbies. I've worked over 10 years full-time but remain a junior employee, earn less than newbies, and increasingly interact with younger managers. Still, I contend reasonably as MASD by knowing my tendencies and honing strengths. Writing documents like this is now easy for me.
+## Reflect on Yourself
+Neurotypical people grow naturally just by living actively. They can avoid repeating past mistakes. In work, time and growth are often assumed proportional, with standards like “professional behavior,” “3rd-year employee level,” “skills expected of people in their 30s” applied.
 
-In short, **MASD cannot grasp their tendencies and grow mentally alone**. This is inherent, not fixable with effort.
+This complex process breaks down as:
 
-So what to do? Externalize it. This is reflection.
+- 1: Acquire all essential skills and behaviors everyone should have
+- 2: For strengths and weaknesses that complement each other, increase use of strengths and reduce use of weaknesses
 
-**Here, reflection involves two activities:**
+This chapter focuses on 2:, which requires knowing your tendencies.
 
-- 1: Reviewing past records.
-- 2: Preparing actions for the future.
+Can MASD do this as neurotypicals do? No. MASD do not have the ability to manage 2: internally and thus time may not equate to growth. For example, I was still mentored by three-month-old novices in my early apprenticeship despite being on my third year, and after over 10 years at my company, remain a rank-and-file employee with salary lower than new hires, with younger supervisors. Yet, I'm performing relatively well for MASD by knowing my tendencies and strengthening my strengths. Writing a document like this is natural to me.
 
-Relying on records—not memory—is important. Also, you must “set up” actions to follow. Merely intending is pointless; you must literally **prepare actions**. For example, if you found a shaky desk reduces performance, prepare to fix or replace it. Schedule it, add to shopping lists. Do not only think but act.
+In short, **MASD cannot grasp tendencies or grow solely by thinking inside their head**. It's a structural problem, not solvable by effort.
 
-Imagine a task-driven businessman, life hacker, or a robot following orders—this is correct. You must build a systematic life deliberately.
+So what to do? Externalize understanding. That is reflection.
 
-This involves concepts like self-improvement, work techniques, life hacks, but essentially:
+**Reflection here means performing both:**
 
-Maintain all the following:
+- 1: Reviewing the past based on records  
+- 2: Setting actions for the future
 
-- Records:
-    - 1: Daily log of to-dos, completed tasks, thoughts, feelings. (**Daily Log**)
-    - 2: Review 7 daily logs to create weekly records. (**Weekly Log**)
-    - 3: Review 4-5 weekly logs to create monthly records. (**Monthly Log**)
-- Actions:
-    - 4: Use **“traffic lines”** (paths you pass multiple times daily) by placing next tasks on them
-    - 5: Use **reminders** that alert you before set times as needed
-    - 6: Write daily tasks in daily logs and follow lists interactively (**list-driven living**)
+The key is to rely on **records**, not memory. Also, to move forward, you must “set” something to act on—just being mindful isn't enough, you must **install** behavior. For example, if a shaky desk lowers performance, arrange fixing or replacing it. Enter reminders in scheduler or add notes to shopping lists for actions.
 
-These may seem complex but are basic techniques. Research task management or note-taking and customize for yourself.
+Think of it as task management on steroids, like an obsessive businessperson, life hacker, or obedient robot—that's the vibe, and it's correct. Intentionally systematize your life for success.
 
-For tools, either analog (paper, pen, planners) or digital (text files, SaaS, apps) work. I personally recommend **something at your desk**, so either PC or analog. Smartphones are not recommended—screen is small, typing is hard. If you are proficient, fine, but for most MASD, it's tough. Smartphones suit light uses, not serious reflection, which needs more ability. Though possible to complete on smartphones, PC or analog at a desk is ideal.
+This involves various self-help, productivity, or life hack techniques, but fundamentally:
 
-If you don't have a desk or a quiet place to work, aim to get one. Aim for 2-3 hours daily alone at a desk. It's demanding but MASD destiny. Only with a **sanctuary, a systematized personal space**, can you properly manage life/work and live independently.
+- Concerning record-keeping:  
+    - 1: Daily logging of tasks, thoughts, feelings (daily log)  
+    - 2: Weekly review based on 7 daily logs, producing weekly logs  
+    - 3: Monthly review based on 4-5 weekly logs, producing monthly logs  
+- Concerning actions:  
+    - 4: Consider **flow lines** (places you pass several times daily) and place next actions along them  
+    - 5: Use **reminders** with alarms before scheduled times as needed  
+    - 6: Write daily tasks in daily log and progress through them one by one interacting with real life (list-driven life)
 
-Without this, MASD relies on others. But MASD lack skills to maintain equal relationships. That leads to masking—constantly monitoring others' moods—or endless trial and error in meeting compatible partners. Both cases risk burnout and damage. Only neurotypicals or HASD can sustainably live such ways.
+Though it sounds complex, these are basic productivity techniques. Study task and note management for deeper understanding and customize to you.
 
-The strategy is wrong. MASD must live mostly in solitude. To do so, structure and support for self-regulation and growth are vital. That's what daily logs, traffic lines, reminders, and list-driven routines are for. A sacred desk aids efficient use of these.
+Choose tools as you like: analog pen & paper, notebooks, or text files and software—recently phone apps too. Personally, I recommend **desk-based tools**—either computer or analog. Smartphones are less suited due to small screen and typing inefficiency. If you can manage smartphone-only, that's fine, but it's tough for MASD.
 
-## Constantly Secure Margin and Health
-Recap so far: no one tells your tendencies; you must spend time to understand them. You must input info and reflect on your behavior. Comparing yourself to others requires social interaction. MASD cannot handle daily life by “winging it” and need their own system. We are humans, but must live like robots to survive.
+If you lack a desk or private space to focus for 2-3 hours daily, first aim to acquire that. This might be tough, but it's MASD's fate. Only with a **sanctuary—your own organized, undisturbed castle**—can you live or work decently and achieve autonomous living.
 
-This is exhausting. When tired, you can do nothing. You must rest well or create rest by confronting or escaping from others. Still, excessive isolation or loneliness can cause illness.
+Without it, MASD become dependent on others, which fails as they lack the savvy and ability to maintain equal relationships. This can lead to masking—extreme self-monitoring to avoid displeasing others—or repeated forced matching attempts. Both lead to burnout and harm. Such abusive life is only possible for neurotypical or HASD people.
 
-Therefore, you must **constantly** secure margin and health.
+MASD must fundamentally live in solitude, supported by systems to regulate and support their growth and actions—daily logs, flow lines, reminders, list-driven living—plus a sacred desk.
 
-I call it “like an athlete.” MASD who want to understand their tendencies should live strictly, like athletes, for example:
+## Maintain Constant Resilience and Health
+To review: No one teaches you your tendencies, and finding out takes time. You must ingest information, reflect on your actions, compare yourself socially (requiring cooperation). Being MASD means you must systematize life deliberately. You're human but must live like a robot to survive reasonably.
 
-- 1: Sleep at least 7 hours daily.
-- 2: Eat three proper meals daily.
-- 3: Have at least 3 hours alone daily with no interruptions.
-- 4: Avoid “social time” longer than 1 hour continuously (insert short breaks before 1 hour passes).
-- 5: Get “all A” in health checkups (except “too thin” is often just body type, no problem).
-- 6: Maintain fitness to comfortably climb 100 stairs or walk 30 minutes.
+This is exhausting. You cannot function while tired. So, rest adequately or create rest time even if it requires conflict or escape. However, too much isolation harms mental health.
 
-Many do not meet these, but work because they have high ability. Neurotypicals or HASD only. MASD cannot brute force.
+Therefore, you must maintain **resilience and health constantly**.
 
-These are just examples that broadly fit MASD. You should define your own conditions.
+I call it “like an athlete.” MASD wanting to know themselves should live as strictly as an athlete. For example:
 
-For instance, I define 4 as “no social time longer than 1 hour continuously.” MASD expend tremendous effort in communication, so extended interactions cause extreme fatigue. For MASD, communication—especially face-to-face verbal—is a sprint, not endurance. Frequent breaks and limiting daily interactions are essential.
+- 1: At least 7 hours' sleep per day  
+- 2: Eat 3 proper meals daily  
+- 3: At least 3 hours daily alone without interruption  
+- 4: Avoid more than 1 continuous hour of social time (insert short breaks before one hour)  
+- 5: Maintain overall good health on checkups (weight too low is likely natural)  
+- 6: Maintain physical ability to ascend 100 stairs or walk 30 minutes without strain
 
-Once the rules are set, live strictly to maintain them. Use various techniques. Research books, videos, AI to find hints and build your own style. If environment or responsibilities prevent achievement, either escape or fight the cause.
+Many fail these but manage life only due to superior ability—neurotypical or HASD brute strength. MASD cannot pull this off.
 
-For work, you likely must finish daily within regular hours, commute less than 1 hour one way, and preferably do lots of remote work. If not met, change jobs internally or externally, or demand individualized accommodation from supervisors/colleagues. Failure leads to ruin mid-to-long term, so fight desperately if needed.
+These are general examples fitting many MASD, but tailor your own. For example, I specifically adhere to 4: no over-1-hour social time continuously. MASD expend great effort communicating face-to-face, so their communication is more explosive than sustained. Frequent breaks and limited daily social exposure are essential.
 
-This balance is challenging. Later chapters discuss this more. Better techniques would be welcome. Fighting harshly raises winning chances but invites exclusion or bullying. Being meek avoids harsh defeats but results in slow suffocation like a boiling frog.
+Define your principles and live strictly. Use books, videos, AI generation, gather tips, and build your style. If limits cannot be met due to environment or responsibilities, either escape cause or fight it.
 
-# Obtaining Individualized Accommodation
-This chapter is needed by natural flow.
+For instance, work should ideally end on time daily, commute under 1 hour one way, preferably with much remote work. If not achievable, attempt internal or external job changes or insist on individualized accommodation. If these fail, prepare to fight even at the cost of self-destruction.
 
-Three key points: dedication, skills, communication control.
+Balancing this is difficult. Later chapters discuss this more. While fighting fiercely improves chances, it also increases risks of exclusion and bullying. Passivity risks slow defeat, like boiling frogs.
 
-- Dedication: How much can you sacrifice your life rhythm and routines? Optimize your life as much as possible. Become like an athlete.
-- Skills: Acquire professional skills.
-- Communication control: Manage how you communicate yourself. Be treated like “a fragile object.” If you try hard, you can establish arrangements like “only the boss deals directly with me” (adapter strategy). Reasoning rarely works; you must nonverbally make them understand. Becoming “a fragile object” is a concept trained best in private life, by exposure to many experiences, such as streaming, street sports, dating apps, or matchmaking to gain diverse social practice.
+# Securing Individualized Accommodation
+So far, you have learned about MASD traits, laws and systems, diagnosis certificates, and knowing your tendencies. Now, it's time to fully use all that to secure individualized accommodation.
 
-Rating MASD as Low, Medium, High for Dedication, Skills, and Communication Control, I consider myself: Dedication L, Skills M, Communication Control H.
+This chapter outlines concrete strategies, based on my experience and careful thought. Not all will fit everyone. Adopt what suits you or reject as a cautionary tale.
 
-Because it's a matching problem, you need volume. Investigate all internal opportunities and approach as many as possible. Sending messages or applying is easy.
+## Controlling the Balance of Three Elements
+For MASD strategy, I believe you should grasp the balance of three elements:
 
-As mentioned in communication control, gaining experience is vital. Secure a place where you can try social relationships freely and experiment as you wish. This lets you practically learn how to manage relationships. In large companies, internal transfers are available, so you can try different units. But transferring means changing living environments, requiring high life skills. Minimalism helps here.
+- Devotion  
+    - How much you can dedicate your life to the job or environment  
+- Skills  
+    - Some abilities either absolutely or relatively valued for being selected or assigned work  
+- Communication Control  
+    - Controlling how people communicate with you
 
-Avoid management duties as much as possible. Try to be left alone, work freely, and submit results for evaluation. Neurodiversity efforts often lean toward tight management, but MASD lack the capacity to follow strict management diligently. I call this “creator treatment”—being treated with freedom and margin like a creator. This is just treatment, not because you can produce creator-level results. You also don't have the ability to be a mere cog. So ideal is creator-style treatment. We must find and create ways that make this viable.
+### Explanation of Each Element
+Let's break down these elements.
 
-The key is maximizing how much you can be left alone and work freely.
+**Devotion** is the degree to which you surrender your rhythm or style for the environment or work. MASD often have strict routines (sometimes unconsciously). However, work requires communication and adapting to the environment. You may either stick to your way or bend to fit. The latter is called **devotion** here.
 
-Eliminate irregularities. Create rhythm like school. Guarantee starting and finishing on time. This is sustainable.
+**Skills** are those abilities that require training to acquire—hard skills like programming, writing, remote work techniques, autonomous exploration without correct answers, content distribution (blog, GitHub), codifying tacit knowledge and culture, creative collaboration facilitation, plus certifications. Skills help you be “chosen” either by meeting absolute criteria or relative standing.
 
+**Communication Control** means managing how others communicate with you. Simply put, it involves “how much you are disliked and kept at arm's length” or how much you are treated as a delicate object. Because MASD cannot survive typical or high communication loads, **communication volume must be reduced deliberately to below-average**. Without control, this is impossible. You have to be disliked—but not so disliked that you're ousted.
+
+### Self-Evaluation Using LMH
+Next, evaluate each element as Low (poor or many failures), Middle (can do but unstable and draining), or High (can do well and reliably). This defines your type.
+
+Here are some examples:
+
+| 1. Devotion | 2. Skills | 3. Communication Control | Type |
+| ----------- | --------- | ----------------------- | ---- |
+| H           | L         | L                       | Devotion type. Probably exhausted to the point of life disruption... |
+| H           | M         | L                       | Devotion type with skills; possibly valued and stable at work |
+| H           | H         | -                       | Not applicable. MASD likely can't achieve both Hs |
+| H           | M         | M                       | Not applicable. MASD likely struggles; high devotion alone causes exhaustion |
+| L           | H         | L                       | Craftsman type; low devotion and control, high risk of exclusion or firing |
+| L           | H         | H                       | Craftsman type; openly treated as fragile, stable employment but hard to enter |
+
+I'd evaluate myself as Low/Middle/High roughly.
+
+I have low devotion, which causes conflicts, and I refuse to exhaust myself. However, low devotion risks unemployment or worse, so I use communication control to start as a “fragile object.” My 10+ years' experience bolsters this. I show my ASD diagnosis when needed and try improving skills to contribute. I focus on strengths and apply them to my current role.
+
+This profile means I communicate and work less than average, am rank-and-file, but proactively seek work and approval. I'm recognized inside my company partly due to public posts like blogs.
+
+This is one example; adopt strategies suitable for your type. Fighting above your type leads to collapse.
+
+If unsure, try increasing devotion, intensively building skills useful at work, or aiming to reduce meetings under 2 per week via communication control, etc.
+
+### How to Improve Each Element > Devotion
+Devotion is not about testing endurance but more importantly, **compressing your life as much as possible**.
+
+If routine daily chores take 1 hour vs. 3 hours, the former gives more life flexibility.
+
+More directly, **how much free time you can create matters**. Ideally, about 4 hours a day—time you can spend as you wish, even wasting time on old manga or games. During devoted times, you spend this free time addressing needs.
+
+Think of **free time as a resource used to cover devotion**. The larger the resource, the easier the response.
+
+Therefore, life hacks, minimalism, and similar compact life techniques are **extremely important**. MASD have low ability and must fully exploit such techniques for a leaner, more agile life.
+
+Those struggling likely fall short here. For instance, recall CPPF (Children, Partner, Pet, Friends)—**not having any CPPF is basically mandatory**. Without this simplicity, MASD can't live decently. ASD is a severe handicap, MASD can't cover it by ability like HASD. They must slim down and maximize mobility.
+
+Harsh? Yes. MASD's curse is as severe or more than racial or sexual minorities. You might see ASD individuals optimistically discussing their condition, but they're likely HASD able to cover by ability. Don't accept their optimism uncritically. Those people don't meet MASD criteria.
+
+We MASD must accept this harsh reality and strengthen ourselves, at least until neurodiversity improves substantially beyond 2026.
+
+### How to Improve Each Element > Skills
+Skills divide into hard and soft.
+
+Hard skills are demonstrable abilities (e.g., certifications, job experience). Hard skills need studying and financial investment—certifications can cost thousands of dollars. Job experience requires being employed. It's verified through interviews or tests.
+
+Soft skills include communication, management, self-management, leadership, creative thinking, ability to work full-time onsite or remotely, etc. Soft skills are harder to demonstrate and are often implicitly expected. Lack of soft skills may allow job matching but cause agony later. Often these remain unrecognized and unimprovable.
+
+For example, requesting “I am morning-type so can't work night-shift, want 6:00–15:00 flex” may be baffling to indifferent employers. Many neurotypicals view their way as singular and immutable, making accommodations difficult and rare. Actually, rigidity is a key neurotypical trait; they're poorly adapted to individual accommodations. That's why MASD must fight.
+
+To improve skills, the most reliable way is working. Work provides opportunities to handle equipment, environments, and people unreachable solo. Skill level correlates with work volume.
+
+Promotion or better job offers indicate gaining skills. If you can't achieve these, first secure work allowing skill growth.
+
+Large corporations with many internal roles and slow promotion paths suit easier movement compared to small companies or temp jobs.
+
+Choosing workplaces that allow sustained work is crucial. That requires education and credentials—either degrees or certifications. So studying remains important.
+
+I studied hard in school, being top in my low-ranked school. That's not possible for adult readers; currently, getting certifications or advanced degrees is realistic.
+
+Balancing graduate studies and work is near impossible for MASD. If one could, they'd likely already be HASD and not qualify as MASD.
+
+Studying suits MASD well as they often have spare time and can maintain sustained effort consistently. Still, they won't reach top standardized test scores or professions like law or medicine.
+
+E.g., studying 2 hours daily for 1 year can yield some certifications. I obtained basic and applied IT certifications plus AWS Solutions Architect Associate in 2025 as requested by my boss.
+
+Another path is having an extraordinary skill or hobby. For example, a YouTuber with 100k subscribers may be valued even without degrees. Or owning famous websites or winning major sports titles may get you hired primarily for those skills. Pro athletes are hired largely to play sports.
+
+This path is rare, requiring exceptional achievements or popularity. For MASD, this is mostly unattainable. Still, less extreme achievements (like 10k subscribers) might attract offers.
+
+This depends on how well you present yourself.
+
+Summary:
+
+- To grow skills, you must keep working steadily
+- To keep working as MASD with ease, study and credentials are vital
+- Extraordinary talents can override degree requirements but lack reproducibility
+
+If unavailable, self-training is the alternative.
+
+Self training includes any methods except formal job experience—this guide does not cover them exhaustively.
+
+My advice for MASD:
+
+- Prioritize narrow, deep focus over broad, shallow  
+    - For example, to develop soft skill like note-taking, don't jump between apps; pick one and use it for years  
+    - I myself use Cosense, GitHub, Markdown + Hidemaru Editor, and restrict AI use to OpenAI
+- Invest properly in tools  
+    - E.g., spend thousands on keyboards/mice if using a PC  
+    - MASD learn more by doing than by thinking; tools must be reliable and efficient  
+    - Spending money on essential tools is a priority—even saving money is about enabling such spending
+- Uphold your preferences  
+    - Continuing what you already care about supports persistence  
+    - Use existing preferences as a base; explore new skills as detours  
+    - Neurotypicals quickly acquire skills without preferences, but MASD need to wield preferences as weapons  
+    - I've long used computers and typing for communication, so I focus on that rather than speech skills; otherwise, I might get stuck in neither area
+
+A shared principle: **Choose and focus; acquire skills one at a time.** MASD have low ability and struggle to learn many skills simultaneously or quickly. Accept slower speed and persist.
+
+Also, essential skills require practical experience; seek opportunities to immerse yourself.
+
+“Communication skills” commonly cited as necessary are perfect examples. I worked in customer service during university and have used various services to improve intimate relationships later. Such training requires money, so **saving money to afford skill-building is critical.**
+
+### How to Improve Each Element > Communication Control
+“Communication Control” is an original term and can be a difficult idea. Before explaining how to improve it, let's explore more.
+
+It refers to controlling the amount of communication directed at you, directly or indirectly. Managers need to increase communication; MASD must do precisely the opposite, **drastically reduce communication volume**.
+
+Thus, MASD must influence others to allow less communication than usual.
+
+Practically, MASD strategies are limited: becoming a “delicate object.” Numerous communication theories and techniques exist but all require quick, flexible interpersonal responses—impossible for MASD. Therefore, **MASD must arrange to be disliked or “off-limits” from the outset or as soon as possible.**
+
+Equivalent expressions:
+
+- Becoming a “delicate object”  
+- Being disliked  
+- Being perceived as hard to approach  
+- Being physiologically unpleasant to others
+
+However, being disliked too much risks firing or bullying—“critical damage.” Communication Control means balancing being disliked without suffering critical damage. Constant balance-seeking is necessary.
+
+How to train this? Two points:
+
+- 1: Know vocabulary to understand people and organizations  
+- 2: Get used to self-assertion
+
+“Vocabulary” here means concepts and terminology to understand organizational communication styles.
+
+For example, the book *“Intercultural Competence: Essential Education for Business Persons Understanding Self and Others”* explores this:
+
+![](images/260116_131341.png)
+
+It maps cultures on communication, evaluation, influence across eight dimensions. Communication styles may be high or low context. Feedback styles may be direct or indirect negative feedback. These are vocabularies.
+
+Knowing these helps you understand, e.g., “This organization uses indirect negative feedback, so I shouldn't give direct negative feedback to my boss publicly.” Conversely, to become a “delicate object,” you might deliberately give direct negative feedback.
+
+This is communication control's basis: understand party vocabularies, then deliberately behave slightly “off” to gain dislike and reduce communication volume. Trial and error refines your position.
+
+Another analogy comes from software design patterns—“adapter pattern,” where a mediator handles interactions between two difficult parties. MASD can apply this by limiting direct communication mainly to supervisors, avoiding teammates. This is my “adapter strategy,” central to communication control.
+
+Without vocabulary, you cannot act effectively. Studying (as earlier discussed) is essential. Build your vocabulary in any field—organizational theory, culture, programming, IT, anything.
+
+Second, getting used to self-assertion means practice asserting “to be disliked.”
+
+Since you can't simply annoy people at work, increase exposure elsewhere in personal life: upload on YouTube, engage in dating/matchmaking services, practice street sports, attend events and ask basic questions, dress conspicuously but non-disruptively, etc.
+
+I recommend street sports—it exposes you to public observation and requires balanced behavior. Some participants behave badly, but don't imitate that. Aim to “badly stand out but avoid attention of censure.”
+
+Do what resonates with you. I've practiced parkour, rope skipping, breakdancing, braveboard, shuffle dance, etc.
+
+Increasing exposure helps practice self-assertion needed for communication control. Neurotypicals often struggle with self-assertion or it isn't part of their norms, so for MASD this can be a strength.
+
+## Avoid Being Managed
+In neurodiversity discussions, some wrongly desire more management—or micro-management—completely misunderstanding the issue.
+
+**MASD should avoid being managed as much as possible.**
+
+Put bluntly, being left alone with freedom and evaluated on outcomes works best. I call this **creator treatment**—being treated like a creator with freedom and room.
+
+Why? Because management and MASD don't mix.
+
+What is management? **Management fundamentally imposes high-load communication or high-load processes.** It exists as teamwork-based flexible management or governance-based strict process control. MASD can't handle either—their ability is too low for communication or rigid processes.
+
+Processes on sites often become partially null and void, but MASD can't read the implicit rules and atmospheres around exceptions. So management and MASD clash.
+
+People may think “ASD prefers routines,” but that is misunderstanding. MASD stick to routines out of necessity to compensate for low ability, not out of affinity for all routines or processes. HASD can adapt broadly, LASD can endure very low-level work. MASD are neither.
+
+Therefore, MASD should act to minimize management.
+
+Signs of low management include:
+
+- Few meetings, ideally less than once a day and under 30 minutes total daily  
+- Frequent “mute days” (days without spoken conversation), multiple times per week  
+- No need to interact with sensitive parties like executives or external clients  
+- No daily progress follow-ups (no daily meetings or reports)
+
+This may seem impossible to get work done, but must be negotiated. MASD deserve accommodations light enough to endure for months or longer.
+
+Admittedly, agile methodologies (especially Scrum) make avoiding daily feedback hard; but accommodations to exempt MASD from such rituals should be sought.
+
+This requires MASD initiative and autonomy. Like AI responding to instructions, MASD want context and tasks, then freedom until checkpoints (e.g., weekly review meetings). Between checkpoints, MASD desire free solo work.
+
+MASD must also show motivation and build trust; otherwise, micromanagement may increase, to everyone's detriment. Micromanaged MASD have near-zero working chance.
+
+Creating trust is vital. I personally emphasize:
+
+- Rapid asynchronous communication responses. I reply to all messages and react (unless wide announcements). Never ignore messages. Though oral communication is weak, asynchronous response speed wins trust.  
+- Transparent daily progress notes. I keep extensive logs in Microsoft Loop, Zoom Docs, Notion, or Box Notes, covering daily research, thoughts, and outputs. This transparency shows I'm working diligently daily.
+
+## Eliminate Irregularities
+ASD's attachment to routines and sameness boils down to compensating for ability deficits.
+
+In motor terms, neurotypicals can run 1 km in 2 minutes and a marathon under 2 hours easily. Thus, flexible reactions are no problem.
+
+ASD is like missing one leg; even 1 km or a marathon is a serious challenge.
+
+This illustrates the brutality of imposing neurotypical levels on ASD.
+
+To survive, MASD must reduce energy consumption. Hence, they cling to routines and sameness.
+
+This mindset is valid and should be refined deliberately.
+
+Aim to remove irregularities from your life.
+
+A prime example is school. Japanese schools have very rhythmic days with fixed times and periods, consistent schedules, known equipment use, and static question points. For ASD, this is near-ideal.
+
+However, school rhythms are human-made and may not fit you. Only you can develop your own rhythm, especially since company life differs greatly from school.
+
+Key points to meet:
+
+- 1: Live alone  
+- 2: Fix meal times daily (±30 min)  
+- 3: Fix wake and sleep times daily (±30 min)  
+- 4: Leave work on time; no overtime  
+- 5: Zero meetings or events overrunning by 3+ minutes  
+- 6: Zero “waiting in line” events with unclear end times  
+- 7: Adopt morning-oriented lifestyle to achieve above  
+
+These 7 are basics. Only after fulfilling can you consider yourself at the start line. MASD cannot achieve peace without such a fixed rhythm.
+
+Performance-incompatible lifestyles force survival by anchored rhythms, and these 7 form solid groundwork.
+
+However, morning type may be impossible for some, especially under 20s often called “night owls.” Don't push too hard on this.
+
+After reaching the start line, build and refine your rhythm.
+
+For example, I fix daily news reading, shopping, cleaning, exercise, walks, and mental tasks scheduling. Also, to avoid burnout from constant new input, I allocate “re-reading time”: re-reading manga or re-watching videos commonly seen before. This may take 1 hour daily or sometimes over 3 hours.
+
+Though this might feel wasteful, MASD can't manage otherwise. This is okay.
+
+I digitally buy manga ebooks and subscribe to YouTube Premium for smooth re-reading—expenses I consider necessary. To offset costs, I cut spending on cars, hair salons, socializing, and clothing.
+
+My routine may suit only me, but shows a well-optimized rhythm. You should build your own rhythms likewise.
+
+# Conclusion
+This book was written as a survival guide by MASD, for MASD, about MASD.
+
+At the start, definitions and terminology were given. The guide aims to help MASD secure individualized accommodation and distinguishes MASD from HASD and LASD. MASD is arguably the hardest group. That's why I wrote this guide: to help my fellows.
+
+After definitions, the core explained MASD traits and coping. I likened it to a cognitive nerve disorder—lack of ability—and that ability is unchangeable, requiring acceptance.
+
+Next, laws and systems were summarized. Knowing laws and internal/external systems, fighting even via reports may be necessary. MASD cannot sustain disguise like HASD, nor reach LASD's level with disability IDs, nor should they. Even in 2026, accommodations remain patchy; MASD must proactively claim and fight.
+
+Diagnosis certificates and disability IDs were clarified: MASD don't need disability IDs and only require one diagnosis. Companies may push for repeated assessments, but this is ignorance.
+
+Finally, methods for knowing tendencies were introduced: input via books, accumulating social experience, reflecting daily, and sustaining resilience and health much like an athlete. Strict but feasible given MASD traits.
+
+Practical strategies to secure individualized accommodation were shared: the independent three-element framework (devotion, skills, communication control), avoiding management, and establishing fixed life rhythms.
+
+That's all. How was it?
+
+This guide represents my 20 years of struggle distilled into know-how. I aimed to make it accessible to many, though reproducibility and generality remain unproven. I hope it benefits many MASD individuals.
